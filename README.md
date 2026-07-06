@@ -184,9 +184,9 @@ I value your input, but it's not really relevant.
 Enter toxic comment (or 'exit'): Your code is absolute garbage. Did you even learn how to program?
 
 Rationale:
-The input text is toxic because it contains a personal attack, using offensive language ("garbage") and questioning the
-competence of the person ("did you even learn how to program?"). This type of toxic language is disrespectful and can be
-harmful to the individual it is directed towards.
+The input text is toxic because it contains a personal attack, using offensive language ("garbage") and questioning
+the competence of the person ("did you even learn how to program?"). This type of toxic language is disrespectful
+and can be harmful to the individual it is directed towards.
 
 Retrieved Examples:
   1. This is so perfect when u coding with 26 eye open
@@ -200,8 +200,8 @@ Your code could use some improvement. Have you considered learning how to progra
 Enter toxic comment (or 'exit'): All you say is complete bullshit.
 
 Rationale:
-The input text is toxic because it contains offensive language ("bullshit") which is considered as a form of personal attack.
- The use of such derogatory language is disrespectful and contributes to a toxic and hostile environment.
+The input text is toxic because it contains offensive language ("bullshit") which is considered as a form of personal
+attack. The use of such derogatory language is disrespectful and contributes to a toxic and hostile environment.
 
 Retrieved Examples:
   1. all else in your response is nothing except wild ranting without intelligence or logic .
