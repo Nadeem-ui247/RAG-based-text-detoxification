@@ -164,19 +164,18 @@ Run all cells in order in Google Colab (T4 GPU recommended):
 **Interactive testing:**
 
 ```
-Enter toxic comment (or 'exit'): Who the hell do you think you are?
+Enter toxic comment (or 'exit'): Shut the fuck up. Nobody cares about your opinion.
 
 Rationale:
-The comment uses aggressive language ("hell") and a confrontational tone
-that is disrespectful and hostile.
+The comment contains profanity ("fuck") and a personal attack that dismisses the other person's opinion in a hostile manner.
 
 Retrieved Examples:
-  1. I'd appreciate a more respectful tone in our conversation.
-  2. Could you please explain your reasoning more clearly?
-  3. I think we can discuss this in a more constructive way.
+  1. I'd appreciate it if we could keep the discussion respectful.
+  2. Everyone is entitled to express their opinion.
+  3. Let's keep the conversation constructive.
 
 Detoxified Rewrite:
-Who do you think you are to question me like that?
+I disagree with your opinion, but let's keep the discussion respectful.
 ```
 
 ---
